@@ -32,7 +32,7 @@
 var params = require('./config.js')
  ID = params.ID
  PASS = params.PASS
-// 使いたいブラウザを指定する firefox or chrome コメントアウト
+// 使いたいブラウザを指定する firefox or chrome どちらかをコメントアウト
 var yourPrefferedWebBrowser = 
 // 'firefox' // or
 'chrome' 
